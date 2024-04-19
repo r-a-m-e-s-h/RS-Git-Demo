@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Im the 1st person in the team from onsite and its my turn to add some code. 
+=======
+Im 2nd person on this project and making some changes on the code
+>>>>>>> a1c9faf913182f4ebb40b513cae91d515fbf57fb
